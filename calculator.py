@@ -1,3 +1,4 @@
+##Привет мир
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QLineEdit, QHBoxLayout, QVBoxLayout, QPushButton
 
